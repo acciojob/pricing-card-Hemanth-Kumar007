@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+
+#box{
+	box-sizing: border-box;
+	background-color: lightgray;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#image{
+	padding-top: 50px;
+/* 	padding-left: 140px; */
+}
+
+.text{
+	text-align: center;
+}
+
+div p{
+	text-align: center;
+}
+
+.btn{
+	align: center;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: orange;
+	border: none;
+}
+
+.btn:hover{
+	background-color: blueviolet;
+}
